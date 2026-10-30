@@ -1,0 +1,10 @@
+{
+  "name": "Harness.PlayModeTests",
+  "references": [
+    "Harness.Runtime"
+  ],
+  "includePlatforms": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

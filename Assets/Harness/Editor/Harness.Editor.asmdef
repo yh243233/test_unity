@@ -1,0 +1,9 @@
+{
+  "name": "Harness.Editor",
+  "references": [
+    "Harness.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
